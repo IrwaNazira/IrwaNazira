@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nurul Irwa Nazira Kamal
 - 👀 I’m interested in Computer science
+- checkout database notes (https://nurulirwanazira.wixsite.com/website)
 
 
 <!---
