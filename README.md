@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nurul Irwa Nazira Kamal
-- 👀 I’m interested in Computer science
 - Checkout database notes (https://nurulirwanazira.wixsite.com/website)
 - Final Year Project (http://socuum.com/STEMPor/)
 
